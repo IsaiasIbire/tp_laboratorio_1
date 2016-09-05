@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1472781798 source:c:\users\isaias ibire\desktop\facultad\programación i - laboratorio i\tp_1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1473040778 source:c:\users\isaias ibire\desktop\facultad\programación i - laboratorio i\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1472527846 source:f:\facultad\programación i - laboratorio i\tp_1\biblioteca.c
+
+1472601174 source:d:\tp_1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1472601412 source:d:\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1472528534 d:\tp_1\biblioteca.h
+
+1472781798 source:d:\facultad\tp_1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1472647886 d:\facultad\tp_1\biblioteca.h
+
+1472783120 source:d:\facultad\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1472688244 source:f:\facultad\tp_1\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1472647886 f:\facultad\tp_1\biblioteca.h
+
+1472688424 source:f:\facultad\tp_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1473040085 c:\users\isaias ibire\desktop\facultad\programación i - laboratorio i\tp_1\biblioteca.h
+
+1472781798 source:c:\users\isaias ibire\desktop\nueva carpeta (2)\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1473040085 c:\users\isaias ibire\desktop\nueva carpeta (2)\biblioteca.h
+
+1473040778 source:c:\users\isaias ibire\desktop\nueva carpeta (2)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
